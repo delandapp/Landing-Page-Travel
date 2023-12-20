@@ -7,5 +7,9 @@ import PopularImage from './Rectangle 9.png'
 import PopularImage2 from './Rectangle 9 (1).png'
 import PopularImage3 from './Rectangle 9 (2).png'
 import PopularImage4 from './Rectangle 9 (3).png'
+import Ilustrasi2 from './illustrasi.png'
+import Pesawat from './pesawat.png'
+import Hotel from './hotel.png'
+import Liburan from './liburan.png'
 
-export { Logo, LogoText, Ilustasi, GooglePlayLogo, AppleLogo, PopularImage, PopularImage2, PopularImage3, PopularImage4 }
+export { Logo, LogoText, Ilustasi, GooglePlayLogo, AppleLogo, PopularImage, PopularImage2, PopularImage3, PopularImage4, Ilustrasi2, Pesawat, Hotel, Liburan }

@@ -12,3 +12,9 @@ export const popularDestinasi = [
     { label: "Paket Tiket Pesawat Jakarta Bali", hari: "", price: "Rp 600.000/orang", imgURL:PopularImage3, lokasi:  "Jakarta, Jawa Barat" },
     { label: "Desa Wisata Kandiri", hari: "14 Day", price: "Rp 1.400.000/orang", imgURL:PopularImage4, lokasi:  "Semarang, Jawa Tengah"},
 ];
+
+export const Service = [
+    { label: "Melayani pesan tiket pesawat", judul: 'Tiket Pesawat'},
+    { label: "Melayani pesan tiket hotel", judul: 'Tiket Hotel'},
+    { label: "Melayani pesan tiket liburan", judul: 'Tiket Liburan'},
+]

@@ -9,8 +9,8 @@ const Nav = () => {
         <img src={LogoText} alt="" width={150} height={150}/>
         <div className="flex w-[70%] justify-between items-center max-md:hidden">
           <ul className="flex gap-10 font-montserrat font-semibold items-center">
-            {navLinks.map((link) => (
-              <li key={link}><a href={link.href}>{link.label}</a></li>
+            {navLinks.map((link, index) => (
+              <li key={index}><a href={link.href}>{link.label}</a></li>
             ))}
           </ul>
           <Button label={'Sign Up'} />
