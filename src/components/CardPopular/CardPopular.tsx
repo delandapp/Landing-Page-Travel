@@ -1,3 +1,5 @@
+import React from 'react'
+
 const CardPopular = ({imgURL, lokasi, label, hari, price}) => {
   return (
     <div className="flex flex-col bg-[#F3F6F6] rounded-lg shadow-md font-palanquin pb-5 lg:w-1/5">

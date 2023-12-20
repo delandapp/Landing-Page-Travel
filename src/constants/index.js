@@ -1,4 +1,4 @@
-import { PopularImage, PopularImage2, PopularImage3, PopularImage4 } from "../assets/images";
+import { PopularImage, PopularImage2, PopularImage3, PopularImage4, Pesawat, Hotel, Liburan } from "../assets/images";
 
 export const navLinks = [
     { href: "#home", label: "Home" },
@@ -13,8 +13,8 @@ export const popularDestinasi = [
     { label: "Desa Wisata Kandiri", hari: "14 Day", price: "Rp 1.400.000/orang", imgURL:PopularImage4, lokasi:  "Semarang, Jawa Tengah"},
 ];
 
-export const Service = [
-    { label: "Melayani pesan tiket pesawat", judul: 'Tiket Pesawat'},
-    { label: "Melayani pesan tiket hotel", judul: 'Tiket Hotel'},
-    { label: "Melayani pesan tiket liburan", judul: 'Tiket Liburan'},
+export const servicePopuler = [
+    { label: "Melayani pesan tiket pesawat", judul: 'Tiket Pesawat', imgURL: Pesawat },
+    { label: "Melayani pesan tiket hotel", judul: 'Tiket Hotel', imgURL: Hotel},
+    { label: "Melayani pesan tiket liburan", judul: 'Tiket Liburan', imgURL: Liburan},
 ]
