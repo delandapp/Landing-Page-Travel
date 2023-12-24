@@ -11,5 +11,6 @@ import Ilustrasi2 from './illustrasi.png'
 import Pesawat from './pesawat.png'
 import Hotel from './hotel.png'
 import Liburan from './liburan.png'
+import PlanImage from './plan-image.png'
 
-export { Logo, LogoText, Ilustasi, GooglePlayLogo, AppleLogo, PopularImage, PopularImage2, PopularImage3, PopularImage4, Ilustrasi2, Pesawat, Hotel, Liburan }
+export { Logo, LogoText, Ilustasi, GooglePlayLogo, AppleLogo, PopularImage, PopularImage2, PopularImage3, PopularImage4, Ilustrasi2, Pesawat, Hotel, Liburan, PlanImage }

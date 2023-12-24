@@ -1,6 +1,9 @@
+import { PlanImage } from "../assets/images"
 const Plan = () => {
   return (
-    <div>Plan</div>
+    <div className="flex flex-col items-center">
+        <img src={PlanImage} alt="" />
+    </div>
   )
 }
 
